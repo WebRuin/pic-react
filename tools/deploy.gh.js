@@ -13,7 +13,7 @@ const task = require('./task');
 
 const remote = {
   name: 'github',
-  url: 'https://github.com/{user}/{repo}.git',
+  url: 'https://github.com/WebRuin/pic-react.git',
   branch: 'gh-pages',
 };
 
